@@ -1,0 +1,8 @@
+accion prueba1 _es
+Ambiente
+m : numero
+Proceso
+mientras (x+5) > b hacer
+b := b+1
+fin_mientras
+fin_accion
